@@ -3,7 +3,7 @@ CMS &amp; WAF Checker — a Python-based CLI scanner that detects CMS (WordPress
 
 <h1 align="center">
   <br>
-  <a href="http://www.darkxcode.pw"><img src="https://raw.githubusercontent.com/zlaxtert-code/CMS-CHECKER/img/master/cms.png" alt="image" width="200"></a>
+  <a href="http://www.darkxcode.pw"><img src="https://raw.githubusercontent.com/zlaxtert-code/CMS-CHECKER/master/img/cms.png" alt="image" width="200"></a>
   <br>
   CMS &amp; WAF Checker
   <br>
@@ -22,7 +22,7 @@ CMS &amp; WAF Checker — a Python-based CLI scanner that detects CMS (WordPress
 
 ## Output
 
-![screenshot](https://raw.githubusercontent.com/zlaxtert-code/CMS-CHECKER/img/master/output.png)
+![screenshot](https://raw.githubusercontent.com/zlaxtert-code/CMS-CHECKER/master/img/output.png)
 
 This is the result if the code is successfully validation.
 
